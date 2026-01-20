@@ -1,0 +1,19 @@
+Heavy-Operations-UI-Industry-System-IA-FN
+BOM 12
+
+A. Factory Network
+1. VDC
+2. CAT24C256
+3. FXLA108
+4. SG3525A
+5. 8080
+6. RSL15
+7. CH246D
+8. NCP45496
+9. FPF2003
+10. DP83848C
+11. D_Filled X4
+12. ESDONCAN1LT 
+
+Note:
+Component 7 was added to make the project more unique
